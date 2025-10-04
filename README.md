@@ -240,3 +240,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 SimplyMedi – Making healthcare accessible and understandable through AI
 
 Would you like me to also **make a professional architecture diagram (draw.io / mermaid.js)** that you can directly embed inside this README so it looks more complete?
+
